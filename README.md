@@ -41,7 +41,6 @@ INSTALLED_APPS = [
     ...
 ]
 
-pip install -U drf-yasg
+pip install  drf-yasg
 
-pip install -U drf-yasg[validation]
 pip install django-filter
